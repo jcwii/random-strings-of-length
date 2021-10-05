@@ -1,0 +1,1 @@
+Terminal-friendly, these functions generate random strengths of an input length either with and without special characters, e.g. call rsols(64) for a 64 character random string/password including special characters.
